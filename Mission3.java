@@ -62,7 +62,7 @@ public class Mission3 {
 
 		//Test code
 		long totalCount = 127;
-		long pageIndex = 25;
+		long pageIndex = 1;
 		
 		Pager pager = new Pager(totalCount);
 		try {
